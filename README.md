@@ -19,6 +19,7 @@ Nama Anggota Kelompok :
 - Membuat PPT
 - Membuat Laporan
 - Menerapkan API pada aplikasi
+- Menerapkan SharedPreference (Activity Login)
 
 2. Dita Faradila :
 - Menentukan ide aplikasi
